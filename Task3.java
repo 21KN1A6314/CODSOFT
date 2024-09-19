@@ -108,7 +108,7 @@ class ATM {
     }
 }
 
-public class Atm_interface {
+public class Task3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter initial balance for your account: ");
