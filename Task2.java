@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StudentGradeCalculator {
+public class Task2 {
 
     // Method to determine the grade based on average percentage
     public static String calculateGrade(double averagePercentage) {
