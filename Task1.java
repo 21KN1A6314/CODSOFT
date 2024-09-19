@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGuessingGame {
+public class Task1 {
     private static final int MAX_ATTEMPTS = 10;   
 
     public static void main(String[] args) {
